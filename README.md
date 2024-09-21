@@ -1,4 +1,7 @@
+![2024-09-20 14-41-09](https://github.com/user-attachments/assets/d41ae124-9f42-42fc-a96b-5826f607e3c9)
+
 # in.orbit
+
 
 **in.orbit** é a parte **frontend** de uma aplicação de gerenciamento de metas, desenvolvida em **React.js**, projetada para ajudar os usuários a definir, acompanhar e gerenciar suas metas semanais de forma intuitiva e visualmente atraente. O projeto permite adicionar e editar metas, acompanhar o progresso e visualizar as conquistas da semana.
 
